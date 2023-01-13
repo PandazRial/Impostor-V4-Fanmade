@@ -427,15 +427,15 @@ class TitleState extends MusicBeatState
 				case 0:
 					deleteCoolText();
 				case 1:
-					createCoolText(['team funktastic']);
+					createCoolText(['PandazRial']);
 				case 3:
 					addMoreText('presents');
 				case 4:
 					deleteCoolText();
 				case 5:
-					createCoolText(['FanMade', 'by']);
+					createCoolText(['A mod of fnf', 'eso tilin']);
 				case 7:
-					addMoreText('Merphi');
+					addMoreText('baila tilin');
 				case 8:
 					deleteCoolText();
 				case 9:
@@ -445,11 +445,11 @@ class TitleState extends MusicBeatState
 				case 12:
 					deleteCoolText();
 				case 13:
-					addMoreText('versus');
+					addMoreText('Welcome to');
 				case 14:
-					addMoreText('impostor');
+					addMoreText('suspechous');
 				case 15:
-					addMoreText('version four');
+					addMoreText('friends');
 				case 16:
 					skipIntro();
 			}
